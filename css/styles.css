@@ -1,4 +1,4 @@
-/* fonts */
+=/* fonts */
 /* 
     font-family: 'Cinzel', serif;
     font-family: 'PT Serif', serif;
@@ -9,3 +9,9 @@
   max-width: 39rem;
   margin: 0 auto;
 }
+h1 {
+  font-family:  'Cinzel', serif;
+  text-align:  center;
+  font-size:  96px; 
+}
+
